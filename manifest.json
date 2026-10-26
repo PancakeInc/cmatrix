@@ -1,0 +1,10 @@
+{
+  "name": "cmatrix",
+  "version": "0.0.1",
+  "author": "PancakeInc",
+  "description": "Blue pill or red pill",
+  "os_version": "1.0.0",
+  "dependencies": [],
+  "files": ["cmatrix.lua"],
+  "bin": { "cmatrix": "cmatrix.lua" }
+}
